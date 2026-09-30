@@ -16,6 +16,8 @@
 ## 실행 화면
 
 (메뉴 전체를 한 번씩 실행한 스크린샷)
+<img width="644" height="932" alt="image" src="https://github.com/user-attachments/assets/77b5cf24-912a-4bd4-be43-6718ca72e83d" />
+
 
 ## 호출 흐름도
 
